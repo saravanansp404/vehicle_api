@@ -2,103 +2,101 @@
   "status": true,
   "message": "Vehicle categories fetched successfully",
   "data": [
-   {
-    "id": 1,
-    "title": "Auto",
-    "type": "Three-Wheeler",
-    "capacity": "Up to 500 kg",
-    "nearby": 22,
-    "eta_minutes": 4,
-    "base_fare": 60.00,
-    "rate_per_km": 15.00,
-    "image": "https://img.magnific.com/free-psd/yellow-auto-rickshaw-urban-transportation_84443-71168.jpg?semt=ais_hybrid&w=740&q=80",
-    "is_available": true
-  },
-  {
-    "id": 2,
-    "title": "Kutty Yanai",
-    "type": "Tata Ace (Mini Truck)",
-    "capacity": "Up to 1.5 Tons",
-    "nearby": 5,
-    "eta_minutes": 12,
-    "base_fare": 250.00,
-    "rate_per_km": 22.00,
-    "image": "https://cdn.trucksfloor.com/vehicles/truck/trf/tata-ace-pro-ev/tata-ace-pro-ev-1.png",
-    "is_available": true
-  },
-  {
-    "id": 3,
-    "title": "Pickup",
-    "type": "Mahindra Bolero Pickup",
-    "capacity": "Up to 2.5 Tons",
-    "nearby": 3,
-    "eta_minutes": 18,
-    "base_fare": 400.00,
-    "rate_per_km": 28.00,
-    "image": "https://cdn.trucksfloor.com/vehicles/truck/trf/mahindra-bolero-maxx-pik-up-hd-20l-lx/mahindra-bolero-maxx-pik-up-hd-20l-lx-3.jpg",
-    "is_available": false
-  },
-  {
-    "id": 4,
-    "title": "Tata 407",
-    "type": "Light Commercial Vehicle",
-    "capacity": "Up to 4 Tons",
-    "nearby": 4,
-    "eta_minutes": 15,
-    "base_fare": 650.00,
-    "rate_per_km": 35.00,
-    "image": "https://d3bslevwxw022c.cloudfront.net/buytrucknbus-tatamotors-com/cv/cv_online/VehicleImages/55552933000R/2909.webp",
-    "is_available": true
-  },
-  {
-    "id": 5,
-    "title": "14ft Eicher",
-    "type": "Intermediate Commercial Vehicle",
-    "capacity": "Up to 7 Tons",
-    "nearby": 2,
-    "eta_minutes": 22,
-    "base_fare": 900.00,
-    "rate_per_km": 42.00,
-    "image": "https://cms.eichertrucksandbuses.com/uploads/truck/exterior/85bbd929178b4a141bff72f58a1a02b5.jpg",
-    "is_available": true
-  },
-  {
-    "id": 6,
-    "title": "19ft Eicher",
-    "type": "Intermediate Commercial Vehicle",
-    "capacity": "Up to 10 Tons",
-    "nearby": 1,
-    "eta_minutes": 30,
-    "base_fare": 1300.00,
-    "rate_per_km": 50.00,
-    "image": "https://cms.eichertrucksandbuses.com/uploads/truck/exterior/85bbd929178b4a141bff72f58a1a02b5.jpg",
-    "is_available": true
-  },
-  {
-    "id": 7,
-    "title": "32ft Single Axle",
-    "type": "Heavy Commercial Vehicle",
-    "capacity": "Up to 15 Tons",
-    "nearby": 1,
-    "eta_minutes": 45,
-    "base_fare": 2500.00,
-    "rate_per_km": 75.00,
-    "image": "https://cdn.trucksfloor.com/vehicles/truck/trf/tata-ultra-t16-cx/tata-ultra-t16-cx-1.jpg",
-    "is_available": false
-  },
-  {
-    "id": 8,
-    "title": "32ft Multi Axle",
-    "type": "Heavy Trailer / Container",
-    "capacity": "Up to 25 Tons",
-    "nearby": 0,
-    "eta_minutes": 60,
-    "base_fare": 4500.00,
-    "rate_per_km": 95.00,
-    "image": "https://cdn.trucksfloor.com/vehicles/truck/trf/tata-prima-fl-5530s/tata-prima-fl-5530s-1.jpg",
-    "is_available": true
+    {
+      "id": 1,
+      "title": "Auto",
+      "type": "Three-Wheeler",
+      "capacity": "Up to 500 kg",
+      "nearby": 22,
+      "eta_minutes": 4,
+      "base_fare": "60.00",
+      "rate_per_km": "15.00",
+      "image": "https://img.magnific.com/free-psd/yellow-auto-rickshaw-urban-transportation_84443-71168.jpg",
+      "is_available": true
+    },
+    {
+      "id": 2,
+      "title": "Kutty Yanai",
+      "type": "Tata Ace (Mini Truck)",
+      "capacity": "Up to 1.5 Tons",
+      "nearby": 5,
+      "eta_minutes": 12,
+      "base_fare": "250.00",
+      "rate_per_km": "22.00",
+      "image": "https://cdn.trucksfloor.com/vehicles/truck/trf/tata-ace-pro-ev/tata-ace-pro-ev-1.png",
+      "is_available": true
+    },
+    {
+      "id": 3,
+      "title": "Pickup",
+      "type": "Mahindra Bolero Pickup",
+      "capacity": "Up to 2.5 Tons",
+      "nearby": 3,
+      "eta_minutes": 18,
+      "base_fare": "400.00",
+      "rate_per_km": "28.00",
+      "image": "https://cdn.trucksfloor.com/vehicles/truck/trf/mahindra-bolero-maxx-pik-up-hd-20l-lx/mahindra-bolero-maxx-pik-up-hd-20l-lx-3.jpg",
+      "is_available": false
+    },
+    {
+      "id": 4,
+      "title": "Tata 407",
+      "type": "Light Commercial Vehicle",
+      "capacity": "Up to 4 Tons",
+      "nearby": 4,
+      "eta_minutes": 15,
+      "base_fare": "650.00",
+      "rate_per_km": "35.00",
+      "image": "https://d3bslevwxw022c.cloudfront.net/buytrucknbus-tatamotors-com/cv/cv_online/VehicleImages/55552933000R/2909.png",
+      "is_available": true
+    },
+    {
+      "id": 5,
+      "title": "14ft Eicher",
+      "type": "Intermediate Commercial Vehicle",
+      "capacity": "Up to 7 Tons",
+      "nearby": 2,
+      "eta_minutes": 22,
+      "base_fare": "900.00",
+      "rate_per_km": "42.00",
+      "image": "https://cms.eichertrucksandbuses.com/uploads/truck/exterior/85bbd929178b4a141bff72f58a1a02b5.jpg",
+      "is_available": true
+    },
+    {
+      "id": 6,
+      "title": "19ft Eicher",
+      "type": "Intermediate Commercial Vehicle",
+      "capacity": "Up to 10 Tons",
+      "nearby": 1,
+      "eta_minutes": 30,
+      "base_fare": "1300.00",
+      "rate_per_km": "50.00",
+      "image": "https://cms.eichertrucksandbuses.com/uploads/truck/exterior/85bbd929178b4a141bff72f58a1a02b5.jpg",
+      "is_available": true
+    },
+    {
+      "id": 7,
+      "title": "32ft Single Axle",
+      "type": "Heavy Commercial Vehicle",
+      "capacity": "Up to 15 Tons",
+      "nearby": 1,
+      "eta_minutes": 45,
+      "base_fare": "2500.00",
+      "rate_per_km": "75.00",
+      "image": "https://cdn.trucksfloor.com/vehicles/truck/trf/tata-ultra-t16-cx/tata-ultra-t16-cx-1.jpg",
+      "is_available": false
+    },
+    {
+      "id": 8,
+      "title": "32ft Multi Axle",
+      "type": "Heavy Trailer / Container",
+      "capacity": "Up to 25 Tons",
+      "nearby": 0,
+      "eta_minutes": 60,
+      "base_fare": "4500.00",
+      "rate_per_km": "95.00",
+      "image": "https://cdn.trucksfloor.com/vehicles/truck/trf/tata-prima-fl-5530s/tata-prima-fl-5530s-1.jpg",
+      "is_available": true
     }
   ]
 }
-
-
