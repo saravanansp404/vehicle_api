@@ -1,5 +1,8 @@
-[
-  {
+{
+  "status": true,
+  "message": "Vehicle categories fetched successfully",
+  "data": [
+   {
     "id": 1,
     "title": "Auto",
     "type": "Three-Wheeler",
@@ -94,6 +97,8 @@
     "rate_per_km": 95.00,
     "image": "https://cdn.trucksfloor.com/vehicles/truck/trf/tata-prima-fl-5530s/tata-prima-fl-5530s-1.jpg",
     "is_available": true
-  }
-]
+    }
+  ]
+}
+
 
