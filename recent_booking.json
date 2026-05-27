@@ -1,0 +1,101 @@
+[
+    {
+      "booking_id": "BK-2026-9941",
+      "status": "IN_TRANSIT",
+      "timestamps": {
+        "created_at": "2026-05-27T17:30:00Z",
+        "pickup_completed_at": "2026-05-27T17:50:00Z",
+        "estimated_delivery": "2026-05-27T18:45:00Z"
+      },
+      "vehicle": {
+        "category": "Kutty Yanai",
+        "model": "Tata Ace Gold",
+        "license_plate": "TN-30-AM-8812"
+      },
+      "driver": {
+        "name": "Senthil Kumar",
+        "phone": "+91 94432 10987"
+      },
+      "route": {
+        "pickup_address": "SPB Colony, Pallipalayam, Tamil Nadu 638010",
+        "drop_address": "Perundurai Road, Near Collectorate, Erode, Tamil Nadu 638011",
+        "distance_km": 14.2
+      },
+      "cargo_details": {
+        "goods_type": "Textile Bundles / Fabrics",
+        "weight_approx": "800 kg"
+      },
+      "billing": {
+        "currency": "INR",
+        "total_amount": 562.00,
+        "payment_method": "UPI",
+        "payment_status": "PAID"
+      }
+    },
+    {
+      "booking_id": "BK-2026-9812",
+      "status": "COMPLETED",
+      "timestamps": {
+        "created_at": "2026-05-27T11:15:00Z",
+        "pickup_completed_at": "2026-05-27T11:30:00Z",
+        "delivered_at": "2026-05-27T12:05:00Z"
+      },
+      "vehicle": {
+        "category": "Auto",
+        "model": "Bajaj Maxima C",
+        "license_plate": "TN-33-BZ-4521"
+      },
+      "driver": {
+        "name": "Ramesh K.",
+        "phone": "+91 98765 43210"
+      },
+      "route": {
+        "pickup_address": "Main Road Market, Pallipalayam, Tamil Nadu 638006",
+        "drop_address": "Bus Stand Commercial Complex, Tiruchengode, Tamil Nadu 637211",
+        "distance_km": 26.5
+      },
+      "cargo_details": {
+        "goods_type": "FMCG Grocery Boxes",
+        "weight_approx": "350 kg"
+      },
+      "billing": {
+        "currency": "INR",
+        "total_amount": 457.50,
+        "payment_method": "CASH",
+        "payment_status": "PAID"
+      }
+    },
+    {
+      "booking_id": "BK-2026-9704",
+      "status": "CANCELLED",
+      "timestamps": {
+        "created_at": "2026-05-26T15:20:00Z",
+        "cancelled_at": "2026-05-26T15:24:12Z"
+      },
+      "cancel_reason": "Customer chose incorrect vehicle category",
+      "vehicle": {
+        "category": "Pickup",
+        "model": "Mahindra Bolero Pickup",
+        "license_plate": "TN-28-AQ-5561"
+      },
+      "driver": {
+        "name": "Sanjay Dutt",
+        "phone": "+91 90470 55667"
+      },
+      "route": {
+        "pickup_address": "Industrial Estate, Sankari Road, Tiruchengode, Tamil Nadu 637211",
+        "drop_address": "Sathy Road, Erode, Tamil Nadu 638003",
+        "distance_km": 31.0
+      },
+      "cargo_details": {
+        "goods_type": "Hardware & Machinery Tools",
+        "weight_approx": "1800 kg"
+      },
+      "billing": {
+        "currency": "INR",
+        "total_amount": 1268.00,
+        "payment_method": "WALLET",
+        "payment_status": "REFUNDED"
+      }
+    }
+  ]

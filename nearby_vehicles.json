@@ -1,0 +1,260 @@
+{
+    "search_metadata": {
+      "user_latitude": 11.3284,
+      "user_longitude": 77.7856,
+      "radius_km": 10.0,
+      "total_nearby_found": 10
+    },
+    "nearby_vehicles": [
+      {
+        "driver_id": "DRV-001-TN",
+        "driver_name": "Ramesh K.",
+        "rating": 4.8,
+        "vehicle_category": "Auto",
+        "vehicle_details": {
+          "model": "Bajaj Maxima C",
+          "license_plate": "TN-33-BZ-4521",
+          "type": "Three-Wheeler",
+          "capacity": "Up to 500 kg"
+        },
+        "live_location": {
+          "latitude": 11.3312,
+          "longitude": 77.7891,
+          "distance_km": 0.45,
+          "heading_degrees": 120,
+          "eta_minutes": 3
+        },
+        "fare_estimate": {
+          "currency": "INR",
+          "total_fare": 75.00,
+          "breakdown": { "base_fare": 60.00, "distance_fare": 15.00, "surge_multiplier": 1.0 }
+        },
+        "image_url": "https://img.magnific.com/free-psd/yellow-auto-rickshaw-urban-transportation_84443-71168.jpg?semt=ais_hybrid&w=740&q=80"
+      },
+      {
+        "driver_id": "DRV-002-TN",
+        "driver_name": "Senthil Kumar",
+        "rating": 4.9,
+        "vehicle_category": "Kutty Yanai",
+        "vehicle_details": {
+          "model": "Tata Ace Gold",
+          "license_plate": "TN-30-AM-8812",
+          "type": "Mini Truck",
+          "capacity": "Up to 1.5 Tons"
+        },
+        "live_location": {
+          "latitude": 11.3415,
+          "longitude": 77.7723,
+          "distance_km": 1.90,
+          "heading_degrees": 45,
+          "eta_minutes": 8
+        },
+        "fare_estimate": {
+          "currency": "INR",
+          "total_fare": 294.00,
+          "breakdown": { "base_fare": 250.00, "distance_fare": 44.00, "surge_multiplier": 1.0 }
+        },
+        "image_url": "https://cdn.trucksfloor.com/vehicles/truck/trf/tata-ace-pro-ev/tata-ace-pro-ev-1.png"
+      },
+      {
+        "driver_id": "DRV-003-TN",
+        "driver_name": "Manian A.",
+        "rating": 4.6,
+        "vehicle_category": "Kutty Yanai",
+        "vehicle_details": {
+          "model": "Tata Ace HT",
+          "license_plate": "TN-88-F-2390",
+          "type": "Mini Truck",
+          "capacity": "Up to 1.5 Tons"
+        },
+        "live_location": {
+          "latitude": 11.3210,
+          "longitude": 77.7912,
+          "distance_km": 1.10,
+          "heading_degrees": 280,
+          "eta_minutes": 5
+        },
+        "fare_estimate": {
+          "currency": "INR",
+          "total_fare": 323.40,
+          "breakdown": { "base_fare": 250.00, "distance_fare": 44.00, "surge_multiplier": 1.1 }
+        },
+        "image_url": "https://cdn.trucksfloor.com/vehicles/truck/trf/tata-ace-pro-ev/tata-ace-pro-ev-1.png"
+      },
+      {
+        "driver_id": "DRV-004-TN",
+        "driver_name": "Sanjay Dutt",
+        "rating": 4.7,
+        "vehicle_category": "Pickup",
+        "vehicle_details": {
+          "model": "Mahindra Bolero Pickup",
+          "license_plate": "TN-28-AQ-5561",
+          "type": "Open Pickup Truck",
+          "capacity": "Up to 2.5 Tons"
+        },
+        "live_location": {
+          "latitude": 11.3150,
+          "longitude": 77.7610,
+          "distance_km": 3.10,
+          "heading_degrees": 150,
+          "eta_minutes": 11
+        },
+        "fare_estimate": {
+          "currency": "INR",
+          "total_fare": 486.80,
+          "breakdown": { "base_fare": 400.00, "distance_fare": 86.80, "surge_multiplier": 1.0 }
+        },
+        "image_url": "https://cdn.trucksfloor.com/vehicles/truck/trf/mahindra-bolero-maxx-pik-up-hd-20l-lx/mahindra-bolero-maxx-pik-up-hd-20l-lx-3.jpg"
+      },
+      {
+        "driver_id": "DRV-005-TN",
+        "driver_name": "Prakash Raj",
+        "rating": 4.5,
+        "vehicle_category": "Tata 407",
+        "vehicle_details": {
+          "model": "Tata 407 SFC",
+          "license_plate": "TN-33-CR-9001",
+          "type": "Light Commercial Vehicle",
+          "capacity": "Up to 4 Tons"
+        },
+        "live_location": {
+          "latitude": 11.3520,
+          "longitude": 77.8110,
+          "distance_km": 4.20,
+          "heading_degrees": 15,
+          "eta_minutes": 14
+        },
+        "fare_estimate": {
+          "currency": "INR",
+          "total_fare": 797.00,
+          "breakdown": { "base_fare": 650.00, "distance_fare": 147.00, "surge_multiplier": 1.0 }
+        },
+        "image_url": "https://d3bslevwxw022c.cloudfront.net/buytrucknbus-tatamotors-com/cv/cv_online/VehicleImages/55552933000R/2909.webp"
+      },
+      {
+        "driver_id": "DRV-006-TN",
+        "driver_name": "Arun Kumar",
+        "rating": 4.8,
+        "vehicle_category": "Tata 407",
+        "vehicle_details": {
+          "model": "Tata 407 Eco",
+          "license_plate": "TN-30-X-4432",
+          "type": "Light Commercial Vehicle",
+          "capacity": "Up to 4 Tons"
+        },
+        "live_location": {
+          "latitude": 11.3290,
+          "longitude": 77.8200,
+          "distance_km": 3.75,
+          "heading_degrees": 90,
+          "eta_minutes": 12
+        },
+        "fare_estimate": {
+          "currency": "INR",
+          "total_fare": 859.30,
+          "breakdown": { "base_fare": 650.00, "distance_fare": 131.25, "surge_multiplier": 1.1 }
+        },
+        "image_url": "https://d3bslevwxw022c.cloudfront.net/buytrucknbus-tatamotors-com/cv/cv_online/VehicleImages/55552933000R/2909.webp"
+      },
+      {
+        "driver_id": "DRV-007-TN",
+        "driver_name": "Karthik S.",
+        "rating": 4.4,
+        "vehicle_category": "14ft Eicher",
+        "vehicle_details": {
+          "model": "Eicher Pro 2049",
+          "license_plate": "TN-52-AB-1122",
+          "type": "Intermediate Commercial Vehicle",
+          "capacity": "Up to 7 Tons"
+        },
+        "live_location": {
+          "latitude": 11.2980,
+          "longitude": 77.7650,
+          "distance_km": 5.40,
+          "heading_degrees": 210,
+          "eta_minutes": 18
+        },
+        "fare_estimate": {
+          "currency": "INR",
+          "total_fare": 1126.80,
+          "breakdown": { "base_fare": 900.00, "distance_fare": 226.80, "surge_multiplier": 1.0 }
+        },
+        "image_url": "https://cms.eichertrucksandbuses.com/uploads/truck/exterior/85bbd929178b4a141bff72f58a1a02b5.jpg"
+      },
+      {
+        "driver_id": "DRV-008-TN",
+        "driver_name": "Vijay Antony",
+        "rating": 4.9,
+        "vehicle_category": "19ft Eicher",
+        "vehicle_details": {
+          "model": "Eicher Pro 3019",
+          "license_plate": "TN-34-M-7788",
+          "type": "Intermediate Commercial Vehicle",
+          "capacity": "Up to 10 Tons"
+        },
+        "live_location": {
+          "latitude": 11.3610,
+          "longitude": 77.7420,
+          "distance_km": 6.10,
+          "heading_degrees": 330,
+          "eta_minutes": 22
+        },
+        "fare_estimate": {
+          "currency": "INR",
+          "total_fare": 1605.00,
+          "breakdown": { "base_fare": 1300.00, "distance_fare": 305.00, "surge_multiplier": 1.0 }
+        },
+        "image_url": "https://cms.eichertrucksandbuses.com/uploads/truck/exterior/85bbd929178b4a141bff72f58a1a02b5.jpg"
+      },
+      {
+        "driver_id": "DRV-009-TN",
+        "driver_name": "Muthu M.",
+        "rating": 4.3,
+        "vehicle_category": "32ft Single Axle",
+        "vehicle_details": {
+          "model": "Tata Ultra T.16",
+          "license_plate": "TN-28-DF-6543",
+          "type": "Heavy Commercial Vehicle",
+          "capacity": "Up to 15 Tons"
+        },
+        "live_location": {
+          "latitude": 11.2750,
+          "longitude": 77.8150,
+          "distance_km": 8.20,
+          "heading_degrees": 175,
+          "eta_minutes": 29
+        },
+        "fare_estimate": {
+          "currency": "INR",
+          "total_fare": 3115.00,
+          "breakdown": { "base_fare": 2500.00, "distance_fare": 615.00, "surge_multiplier": 1.0 }
+        },
+        "image_url": "https://d3bslevwxw022c.cloudfront.net/buytrucknbus-tatamotors-com/cv/cv_online/VehicleImages/55552933000R/2909.webp"
+      },
+      {
+        "driver_id": "DRV-010-TN",
+        "driver_name": "Rajendran K.",
+        "rating": 4.6,
+        "vehicle_category": "32ft Multi Axle",
+        "vehicle_details": {
+          "model": "Tata Prima 5530.S",
+          "license_plate": "TN-30-AA-0005",
+          "type": "Heavy Trailer / Container",
+          "capacity": "Up to 25 Tons"
+        },
+        "live_location": {
+          "latitude": 11.3850,
+          "longitude": 77.8350,
+          "distance_km": 9.50,
+          "heading_degrees": 65,
+          "eta_minutes": 35
+        },
+        "fare_estimate": {
+          "currency": "INR",
+          "total_fare": 5402.50,
+          "breakdown": { "base_fare": 4500.00, "distance_fare": 902.50, "surge_multiplier": 1.0 }
+        },
+        "image_url": "https://d3bslevwxw022c.cloudfront.net/buytrucknbus-tatamotors-com/cv/cv_online/VehicleImages/55552933000R/2909.webp"
+      }
+    ]
+  }

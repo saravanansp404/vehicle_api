@@ -1,0 +1,181 @@
+{
+    "tracking_metadata": {
+      "organization_id": "LOGIX-TN-E-04",
+      "region": "Tamil Nadu (Erode/Pallipalayam Zone)",
+      "timestamp": "2026-05-27T18:22:49Z",
+      "total_active_drivers": 5,
+      "duty_status_breakdown": {
+        "available": 3,
+        "on_trip": 2
+      }
+    },
+    "active_drivers": [
+      {
+        "driver_id": "DRV-001-TN",
+        "profile": {
+          "name": "Ramesh K.",
+          "phone": "+91 98765 43210",
+          "rating": 4.8
+        },
+        "duty_status": "AVAILABLE",
+        "shift_metrics": {
+          "clocked_in_at": "2026-05-27T08:00:00Z",
+          "hours_online": 10.3,
+          "completed_trips_today": 8,
+          "today_earnings_inr": 1850.00
+        },
+        "vehicle_info": {
+          "category": "Auto",
+          "model": "Bajaj Maxima C",
+          "license_plate": "TN-33-BZ-4521"
+        },
+        "telemetry": {
+          "last_updated": "2026-05-27T18:21:15Z",
+          "battery_percentage": 78,
+          "gps_signal": "STRONG",
+          "coordinates": {
+            "latitude": 11.3312,
+            "longitude": 77.7891
+          },
+          "heading_degrees": 120,
+          "current_speed_kmh": 0
+        }
+      },
+      {
+        "driver_id": "DRV-002-TN",
+        "profile": {
+          "name": "Senthil Kumar",
+          "phone": "+91 94432 10987",
+          "rating": 4.9
+        },
+        "duty_status": "ON_TRIP",
+        "current_trip": {
+          "trip_id": "TRIP-88492",
+          "booking_type": "Spot Delivery",
+          "assigned_at": "2026-05-27T18:05:00Z",
+          "eta_destination_minutes": 14
+        },
+        "shift_metrics": {
+          "clocked_in_at": "2026-05-27T07:30:00Z",
+          "hours_online": 10.8,
+          "completed_trips_today": 5,
+          "today_earnings_inr": 2450.00
+        },
+        "vehicle_info": {
+          "category": "Kutty Yanai",
+          "model": "Tata Ace Gold",
+          "license_plate": "TN-30-AM-8812"
+        },
+        "telemetry": {
+          "last_updated": "2026-05-27T18:22:30Z",
+          "battery_percentage": 42,
+          "gps_signal": "STRONG",
+          "coordinates": {
+            "latitude": 11.3415,
+            "longitude": 77.7723
+          },
+          "heading_degrees": 45,
+          "current_speed_kmh": 32
+        }
+      },
+      {
+        "driver_id": "DRV-003-TN",
+        "profile": {
+          "name": "Manian A.",
+          "phone": "+91 96290 12345",
+          "rating": 4.6
+        },
+        "duty_status": "AVAILABLE",
+        "shift_metrics": {
+          "clocked_in_at": "2026-05-27T13:00:00Z",
+          "hours_online": 5.3,
+          "completed_trips_today": 3,
+          "today_earnings_inr": 920.00
+        },
+        "vehicle_info": {
+          "category": "Kutty Yanai",
+          "model": "Tata Ace HT",
+          "license_plate": "TN-88-F-2390"
+        },
+        "telemetry": {
+          "last_updated": "2026-05-27T18:22:01Z",
+          "battery_percentage": 91,
+          "gps_signal": "MEDIUM",
+          "coordinates": {
+            "latitude": 11.3210,
+            "longitude": 77.7912
+          },
+          "heading_degrees": 280,
+          "current_speed_kmh": 5
+        }
+      },
+      {
+        "driver_id": "DRV-004-TN",
+        "profile": {
+          "name": "Sanjay Dutt",
+          "phone": "+91 90470 55667",
+          "rating": 4.7
+        },
+        "duty_status": "ON_TRIP",
+        "current_trip": {
+          "trip_id": "TRIP-88499",
+          "booking_type": "Scheduled Enterprise",
+          "assigned_at": "2026-05-27T17:40:00Z",
+          "eta_destination_minutes": 22
+        },
+        "shift_metrics": {
+          "clocked_in_at": "2026-05-27T09:15:00Z",
+          "hours_online": 9.1,
+          "completed_trips_today": 4,
+          "today_earnings_inr": 2100.00
+        },
+        "vehicle_info": {
+          "category": "Pickup",
+          "model": "Mahindra Bolero Pickup",
+          "license_plate": "TN-28-AQ-5561"
+        },
+        "telemetry": {
+          "last_updated": "2026-05-27T18:22:40Z",
+          "battery_percentage": 55,
+          "gps_signal": "STRONG",
+          "coordinates": {
+            "latitude": 11.3150,
+            "longitude": 77.7610
+          },
+          "heading_degrees": 150,
+          "current_speed_kmh": 45
+        }
+      },
+      {
+        "driver_id": "DRV-005-TN",
+        "profile": {
+          "name": "Prakash Raj",
+          "phone": "+91 98427 44332",
+          "rating": 4.5
+        },
+        "duty_status": "AVAILABLE",
+        "shift_metrics": {
+          "clocked_in_at": "2026-05-27T06:00:00Z",
+          "hours_online": 12.3,
+          "completed_trips_today": 6,
+          "today_earnings_inr": 3800.00
+        },
+        "vehicle_info": {
+          "category": "Tata 407",
+          "model": "Tata 407 SFC",
+          "license_plate": "TN-33-CR-9001"
+        },
+        "telemetry": {
+          "last_updated": "2026-05-27T18:19:50Z",
+          "battery_percentage": 18,
+          "gps_signal": "POOR",
+          "coordinates": {
+            "latitude": 11.3520,
+            "longitude": 77.8110
+          },
+          "heading_degrees": 15,
+          "current_speed_kmh": 0
+        }
+      }
+    ]
+  }
